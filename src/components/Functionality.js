@@ -140,7 +140,7 @@ function Functionality() {
 
           {/* Third Card */}
           <Paper
-            sx={{ height: '222px', width: '430px', backgroundColor: '#ffff', padding: '16px', position: 'relative' }}
+            sx={{ height: '215px', width: '430px', backgroundColor: '#ffff', padding: '16px', position: 'relative' }}
           >
             <Typography
               variant="h6"
