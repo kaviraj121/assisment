@@ -25,7 +25,7 @@ function Functionality() {
           <Typography
             variant="h6"
             component="h2"
-            sx={{ fontSize: '14px', textAlign: 'left' }}
+            sx={{ fontSize: '14px', textAlign: 'left',fontWeight: 'bold' }}
           >
             Elevate Your Brand Aesthetics with Custom Tracking Page Styles
           </Typography>
@@ -119,7 +119,7 @@ function Functionality() {
             <Typography
               variant="h6"
               component="h2"
-              sx={{ fontSize: '14px', textAlign: 'left' }}
+              sx={{ fontSize: '14px', textAlign: 'left',fontWeight: 'bold' }}
             >
               Exclusive Onboarding Support for High-Volume Brands
             </Typography>
@@ -145,7 +145,7 @@ function Functionality() {
             <Typography
               variant="h6"
               component="h2"
-              sx={{ fontSize: '14px', textAlign: 'left' }}
+              sx={{ fontSize: '14px', textAlign: 'left',fontWeight: 'bold' }}
             >
               Explore Our Integrated Ecosystem
             </Typography>
@@ -179,7 +179,7 @@ function Functionality() {
           <Typography
             variant="h6"
             component="h2"
-            sx={{ fontSize: '14px', textAlign: 'left' }}
+            sx={{ fontSize: '14px', textAlign: 'left',fontWeight: 'bold' }}
           >
             Seamlessly Integrate Custom HTML Elements
           </Typography>
